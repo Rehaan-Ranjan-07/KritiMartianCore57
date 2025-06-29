@@ -9,9 +9,8 @@ This project processes and classifies shadow and non-shadow regions from simulat
 
 ## Developers
 
-Pratyush Kumar Swain : [Github](https://github.com/Pratyush439), [LinkedIn](https://www.linkedin.com/in/pratyush-kumar-swain-2313482a5/)
-Vijay Kumar : [Github](https://github.com/vijay-kumar-79), [LinkedIn](https://www.linkedin.com/in/gvijaykumar79/)
-
+Pratyush Kumar Swain : [Github](https://github.com/Pratyush439), [LinkedIn](https://www.linkedin.com/in/pratyush-kumar-swain-2313482a5/) \
+Rehaan Ranjan : [Github](https://github.com/Rehaan-Ranjan-07), [LinkedIn](https://www.linkedin.com/in/rehaan-ranjan-9b6257320/)
 
 
 ## Data Preparation
